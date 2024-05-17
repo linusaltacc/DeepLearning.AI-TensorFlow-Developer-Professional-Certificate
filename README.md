@@ -25,7 +25,7 @@
 
   </p></details>
 
-  - [Natural Language Processing in TensorFlow](/Course%204%20-%20Sequences,%20Time%20Serirs%20and%20Prediction/) <details>
+  - [Natural Language Processing in TensorFlow](/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/) <details>
     <summary>Show Certificate</summary><p>
 
       [<img src="assets/certificates/Natural Language Processing in TensorFlow.jpeg" />](https://www.coursera.org/account/accomplishments/records/VX3RY96H7PFM)
